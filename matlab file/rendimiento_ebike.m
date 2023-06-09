@@ -2,7 +2,7 @@ clc;
 clear all;
 close all;
 
-carpeta = 'C:\Users\joel1\OneDrive\Escritorio\TIV'; %colocar la ruta en donde se encuntra el archivo
+carpeta = 'E:/'; %colocar la ruta en donde se encuntra el archivo
 c= pi/180;
 radio = 6378.1;
 
